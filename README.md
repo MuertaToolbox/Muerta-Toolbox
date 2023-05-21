@@ -6,7 +6,9 @@
 
 ## All-In-One Toolbox for Developers
 ✅ 20+ carefully crafted developer tools
+
 ✅ macOS app, fast & beautiful
+
 ✅ Work offline, and respect your data
 
 🎯 [muertatoolbox.online](https://muertatoolbox.online/)
