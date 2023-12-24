@@ -1,9 +1,4 @@
 # Muerta Toolbox App | All-In-One Toolbox for Developers
-
-<p align="center">
-  <a href="https://muertatoolbox.online/"><img src="images/Muerta.png?raw=true" alt="Muerta Toolbox App | All-In-One Toolbox for Developers"></a>
-</p>
-
 ## All-In-One Toolbox for Developers
 ✅ 20+ carefully crafted developer tools
 
@@ -11,7 +6,7 @@
 
 ✅ Work offline, and respect your data
 
-🎯 [muertatoolbox.online](https://muertatoolbox.online/)
+🎯 [app.muertatoolbox.online](https://app.muertatoolbox.online/)
 
 ## Features
 
@@ -41,10 +36,6 @@
 - URL Encode & Decode
 - XML Beauty
 - Comming soon ...
-
-## Download
-
-[Click here](https://muertatoolbox.online/download/)
 
 ## Feedback
 
